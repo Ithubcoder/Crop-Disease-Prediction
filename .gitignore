@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtualenvs
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data & models
+data/
+models/*.h5
+models/*.hdf5
+models/*.pt
+models/*.pth
+*.ckpt
+*.pb
+*.tflite
+
+# Logs
+logs/
+*.log
+
+# IDEs
+.vscode/
+.idea/
+
+# Git LFS attributes handled separately
+.gitattributes
+
+# secrets
+*.pem
+*.key
