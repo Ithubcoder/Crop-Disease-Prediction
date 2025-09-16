@@ -6,6 +6,7 @@ scikit-learn
 opencv-python-headless
 Pillow
 matplotlib
+seaborn
 
 # augmentation & datasets
 albumentations
